@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TextTimeDisplay">
+        <attr name="timeSize" format="dimension"/>
+        <attr name="timeColor" format="color"/>
+        <attr name="timeBold" format="boolean"/>
+        <attr name="dateSize" format="dimension"/>
+        <attr name="dateColor" format="color"/>
+    </declare-styleable>
+
+</resources>
